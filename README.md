@@ -1,6 +1,6 @@
 # Credit Risk Clustering
 
-An unsupervised ML project using KMeans clustering on German Credit Data.
+An unsupervised ML project using K-Means clustering on German Credit Data.
 
 ## Libraries Used
 - numpy, pandas, matplotlib, seaborn
